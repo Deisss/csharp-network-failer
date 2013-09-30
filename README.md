@@ -3,7 +3,7 @@ csharp-network-failer
 
 Allow to start/stop windows network interface(s).
 
-This is usefull for testing offline/online support (especially with Internet Explorer for example...).
+This is usefull for testing offline/online support (from example websocket failover on your favorite browser...).
 
 
 
